@@ -1,0 +1,43 @@
+name: Auto Daily Log
+
+on:
+  schedule:
+    # Jalan tiap hari jam 00:30 UTC = 07:30 WIB
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-log:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update daily log
+        run: |
+          mkdir -p logs
+          DATE=$(TZ="Asia/Jakarta" date +"%Y-%m-%d")
+          TIME=$(TZ="Asia/Jakarta" date +"%H:%M:%S")
+
+          echo "## $DATE" > logs/daily-log.md
+          echo "" >> logs/daily-log.md
+          echo "- Auto sync at $TIME WIB" >> logs/daily-log.md
+          echo "- Status: still coding, still debugging, still alive." >> logs/daily-log.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "allifiz-bot"
+          git config user.email "sadflix07+github-bot@gmail.com"
+
+          git add logs/daily-log.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update daily log"
+            git push
+          fi
