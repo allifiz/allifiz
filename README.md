@@ -8,6 +8,13 @@
 
 ### 「 backend dev by day, terminal ghost by night 」
 
+<div align="center">
+
+### 👁️ Visitors
+
+<img src="https://count.getloli.com/get/@allifiz?theme=moebooru" alt="visitor counter" />
+
+</div>
 </div>
 
 ---
