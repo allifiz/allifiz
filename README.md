@@ -27,15 +27,15 @@
 
 ## ⚔️ Current Quest
 
-- 🤖 Building **Hina**, a WhatsApp AI bot with personality and mood system
-- 📚 Building **Manga App**, a manga reader with proxy-cache API architecture
-- ⚙️ Working with backend endpoints, SQL logic, and internal services
-- 🧠 Learning CTF, web security, and cloud deployment
-- 🌙 Debugging errors that only appear at midnight
+-  Building **Hina**, a WhatsApp AI bot with personality and mood system
+-  Building **Manga App**, a manga reader with proxy-cache API architecture
+-  Working with backend endpoints, SQL logic, and internal services
+-  Learning CTF, web security, and cloud deployment
+-  Debugging errors that only appear at midnight
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 🧪 Active Experiments
+##  Active Experiments
 
 ```bash
 ~/projects
@@ -82,7 +82,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -90,7 +90,7 @@
 <tr>
 <td width="50%">
 
-### 🤖 Hina Bot
+### Hina Bot
 
 WhatsApp AI chatbot built with Baileys and Qwen API.  
 Designed with personality, mood handling, and dynamic response behavior.
@@ -98,7 +98,7 @@ Designed with personality, mood handling, and dynamic response behavior.
 </td>
 <td width="50%">
 
-### 📚 Manga App
+###  Manga App
 
 Modern manga reader frontend with API integration.  
 Planned proxy-cache backend using Node.js, Fastify, SQLite, PM2, and Nginx.
@@ -111,7 +111,7 @@ Planned proxy-cache backend using Node.js, Fastify, SQLite, PM2, and Nginx.
 
 ---
 
-## 🌌 GitHub System Monitor
+##  GitHub System Monitor
 
 <div align="center">
 
@@ -123,7 +123,7 @@ Planned proxy-cache backend using Node.js, Fastify, SQLite, PM2, and Nginx.
 
 ---
 
-## 🔥 Streak Protocol
+##  Streak Protocol
 
 <div align="center">
 
@@ -133,7 +133,7 @@ Planned proxy-cache backend using Node.js, Fastify, SQLite, PM2, and Nginx.
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -143,7 +143,7 @@ Planned proxy-cache backend using Node.js, Fastify, SQLite, PM2, and Nginx.
 
 ---
 
-## 🕶️ Terminal Quote
+##  Terminal Quote
 
 ```txt
 "Code doesn't need to be perfect.
@@ -156,8 +156,8 @@ It just needs to survive production first."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:0D1117&height=120&section=footer" />
 
-### ⚡ initializing chaos...
-### 🌙 compiling dreams...
-### 🧠 debugging reality...
+###  initializing chaos...
+###  compiling dreams...
+###  debugging reality...
 
 </div>
