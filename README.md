@@ -12,7 +12,7 @@
 
 ---
 
-## 🧬 About Me
+##  About Me
 
 ```txt
 > Name        : Allif
@@ -25,7 +25,7 @@
 
 ---
 
-## ⚔️ Current Quest
+##  Current Quest
 
 -  Building **Hina**, a WhatsApp AI bot with personality and mood system
 -  Building **Manga App**, a manga reader with proxy-cache API architecture
