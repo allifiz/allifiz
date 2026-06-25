@@ -158,10 +158,8 @@ It just needs to survive production first."
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:0D1117&height=120&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1600&pause=400&color=00F7FF&center=true&vCenter=true&width=600&lines=%3E+initializing+chaos...;%3E+compiling+dreams...;%3E+debugging+reality..." />
 
-###  initializing chaos...
-###  compiling dreams...
-###  debugging reality...
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:0D1117&height=120&section=footer" />
 
 </div>
