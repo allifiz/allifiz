@@ -9,7 +9,7 @@
 ### 「 backend dev by day, terminal ghost by night 」
 
 <div align="center">
-<img src="https://count.getloli.com/get/@allifiz?theme=moebooru" alt="visitor counter" />
+<img src="https://count.getloli.com/get/@allifiz?theme=gelbooru" alt="visitor counter" />
 
 </div>
 </div>
