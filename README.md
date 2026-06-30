@@ -118,7 +118,7 @@ Planned proxy-cache backend using Node.js, Fastify, SQLite, PM2, and Nginx.
 ##  GitHub System Monitor
 
 <div align="center">
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allifiz&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=allifiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF" />
 
 </div>
