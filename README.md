@@ -118,19 +118,19 @@ Planned proxy-cache backend using Node.js, Fastify, SQLite, PM2, and Nginx.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allifiz&theme=tokyonight" alt="Allif profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allifiz&theme=transparent" alt="Allif profile details" />
 
 <br/>
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allifiz&theme=tokyonight" alt="Allif repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allifiz&theme=tokyonight" alt="Allif most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allifiz&theme=transparent" alt="Allif repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allifiz&theme=transparent" alt="Allif most commit language" />
 
 <br/>
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allifiz&theme=tokyonight" alt="Allif GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allifiz&theme=tokyonight&utcOffset=7" alt="Allif productive time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allifiz&theme=transparent" alt="Allif GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allifiz&theme=transparent&utcOffset=7" alt="Allif productive time" />
 
 </div>
 
