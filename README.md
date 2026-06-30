@@ -119,16 +119,11 @@ Planned proxy-cache backend using Node.js, Fastify, SQLite, PM2, and Nginx.
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=allifiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF" alt="Allif GitHub stats" />
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allifiz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Allif top languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=allifiz&show_icons=true&theme=tokyonight&hide_border=true" alt="Allif GitHub stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allifiz&layout=compact&theme=tokyonight&hide_border=true" alt="Allif top languages" />
 
 </div>
 ---
