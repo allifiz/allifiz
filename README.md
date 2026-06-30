@@ -114,19 +114,25 @@ Planned proxy-cache backend using Node.js, Fastify, SQLite, PM2, and Nginx.
 </div>
 
 ---
-
 ##  GitHub System Monitor
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=allifiz&show_icons=true&theme=tokyonight&hide_border=true" alt="Allif GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allifiz&theme=tokyonight" alt="Allif profile details" />
 
 <br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allifiz&layout=compact&theme=tokyonight&hide_border=true" alt="Allif top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allifiz&theme=tokyonight" alt="Allif repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allifiz&theme=tokyonight" alt="Allif most commit language" />
+
+<br/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allifiz&theme=tokyonight" alt="Allif GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allifiz&theme=tokyonight&utcOffset=7" alt="Allif productive time" />
 
 </div>
----
 
 ##  Streak Protocol
 
