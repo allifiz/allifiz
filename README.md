@@ -1,167 +1,155 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7F00FF,100:00F7FF&height=180&section=header&text=ALLIF%20IZ&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Night%20Coder%20%7C%20Terminal%20Ghost&descAlignY=55&descSize=16" />
+# Hi, I'm Allif 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;API+Endpoint+Builder;WhatsApp+AI+Bot+Creator;SQL+Logic+Enjoyer;Debugging+life.exe..." />
+**Backend Developer from Indonesia**
 
-<br/>
+I build backend systems, APIs, automation tools, and practical web applications.
 
-### 「 backend dev by day, terminal ghost by night 」
+Currently focused on:
 
-<div align="center">
-<img src="https://count.getloli.com/get/@allifiz?theme=gelbooru" alt="visitor counter" />
-
-</div>
-</div>
-
----
-
-##  About Me
-
-```txt
-> Name        : Allif
-> Role        : Backend Developer
-> Focus       : API, SQL Logic, Automation, AI Bot
-> Location    : Indonesia
-> Status      : Building weird things that somehow work
-> Mode        : caffeine + terminal + chaos
-```
-
----
-
-##  Current Quest
-
--  Building **Hina**, a WhatsApp AI bot with personality and mood system
--  Building **Manga App**, a manga reader with proxy-cache API architecture
--  Working with backend endpoints, SQL logic, and internal services
--  Learning CTF, web security, and cloud deployment
--  Debugging errors that only appear at midnight
-
----
-
-##  Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs)
-![Fastify](https://img.shields.io/badge/Fastify-0D1117?style=for-the-badge&logo=fastify)
-![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite)
-![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman)
+* Backend development with TypeScript, Node.js, NestJS, and Fastify
+* Relational database design with PostgreSQL and MySQL
+* Multi-tenant application architecture
+* API security, authorization, and business logic
+* Learning Go, cloud deployment, and web security
 
 </div>
 
 ---
 
-##  Active Experiments
+## About Me
 
-```bash
-~/projects
-├── hina-bot
-│   ├── baileys
-│   ├── qwen-api
-│   ├── mood-system
-│   └── personality-engine
-│
-├── manga-app
-│   ├── frontend
-│   ├── api-integration
-│   ├── proxy-cache-api
-│   └── sqlite-cache
-│
-└── backend-lab
-    ├── nestjs
-    ├── fastify
-    ├── laravel
-    ├── mysql
-    └── sql-logic
-```
+I'm a backend developer who enjoys turning business requirements into structured APIs, database models, and reliable application flows.
+
+Most of my work revolves around:
+
+* Designing REST APIs
+* Building backend services
+* Modeling relational databases
+* Writing authentication and authorization logic
+* Integrating third-party services
+* Improving application structure and maintainability
+
+I also enjoy experimenting with automation, AI-powered applications, and tools that solve practical problems.
+
+---
+
+## Tech Stack
+
+### Backend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square\&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square\&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-111827?style=flat-square\&logo=nestjs)
+![Fastify](https://img.shields.io/badge/Fastify-111827?style=flat-square\&logo=fastify)
+![Laravel](https://img.shields.io/badge/Laravel-111827?style=flat-square\&logo=laravel)
+![Go](https://img.shields.io/badge/Go-111827?style=flat-square\&logo=go)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square\&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square\&logo=sqlite)
+![Prisma](https://img.shields.io/badge/Prisma-111827?style=flat-square\&logo=prisma)
+
+### Tools and Infrastructure
+
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square\&logo=git)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square\&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square\&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-111827?style=flat-square\&logo=postman)
+![Azure](https://img.shields.io/badge/Azure-111827?style=flat-square\&logo=microsoftazure)
 
 ---
 
 ## Featured Projects
 
+### My Sekolah
+
+A multi-tenant school management SaaS designed to manage multiple schools from one platform.
+
+Main areas include:
+
+* Platform administration
+* School operations
+* Student and guardian management
+* Attendance
+* Billing and partial payments
+* Role-based access control
+* Audit logs
+* Parent portal
+
+**Stack:** Next.js, TypeScript, PostgreSQL, Prisma, Tailwind CSS
+
+---
+
+### Hina
+
+A WhatsApp AI chatbot experiment built with a personality and mood-based response system.
+
+The project explores:
+
+* WhatsApp automation
+* AI API integration
+* Conversation context
+* Personality configuration
+* Dynamic response behavior
+
+**Stack:** Node.js, TypeScript, Baileys, AI API integration
+
+---
+
+### Backend Experiments
+
+A collection of backend projects and technical experiments involving:
+
+* REST API development
+* Authentication and authorization
+* SQL and database modeling
+* NestJS and Fastify
+* Go API development
+* Automation tools
+
+---
+
+## Currently Learning
+
+* Go for backend development
+* Cloud deployment and infrastructure
+* Application security
+* CTF and web security fundamentals
+* Scalable multi-tenant architecture
+* Testing and CI/CD practices
+
+---
+
+## GitHub Activity
+
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=allifiz&show_icons=true&hide_border=true&theme=transparent" />
 
-### Hina Bot
-
-WhatsApp AI chatbot built with Baileys and Qwen API.  
-Designed with personality, mood handling, and dynamic response behavior.
-
-</td>
-<td width="50%">
-
-###  Manga App
-
-Modern manga reader frontend with API integration.  
-Planned proxy-cache backend using Node.js, Fastify, SQLite, PM2, and Nginx.
-
-</td>
-</tr>
-</table>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allifiz&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
-##  GitHub System Monitor
 
-<div align="center">
+## Development Principles
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allifiz&theme=github_dark" alt="Allif repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allifiz&theme=github_dark" alt="Allif most commit language" />
-
-<br/>
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allifiz&theme=github_dark" alt="Allif GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allifiz&theme=github_dark&utcOffset=7" alt="Allif productive time" />
-
-</div>
-
-##  Streak Protocol
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=allifiz&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF" />
-
-</div>
-
----
-
-##  Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/allifiz/allifiz/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-##  Terminal Quote
-
-```txt
-"Code doesn't need to be perfect.
-It just needs to survive production first."
+```text
+Build clearly.
+Keep business logic explicit.
+Design the database carefully.
+Test critical flows.
+Improve continuously.
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1600&pause=400&color=00F7FF&center=true&vCenter=true&width=600&lines=%3E+initializing+chaos...;%3E+compiling+dreams...;%3E+debugging+reality..." />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:0D1117&height=120&section=footer" />
+Open to learning, collaboration, and building useful software.
 
 </div>
