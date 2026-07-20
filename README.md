@@ -42,7 +42,6 @@ I also enjoy experimenting with automation, AI-powered applications, and tools t
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square\&logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square\&logo=node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-111827?style=flat-square\&logo=nestjs)
-![Fastify](https://img.shields.io/badge/Fastify-111827?style=flat-square\&logo=fastify)
 ![Laravel](https://img.shields.io/badge/Laravel-111827?style=flat-square\&logo=laravel)
 ![Go](https://img.shields.io/badge/Go-111827?style=flat-square\&logo=go)
 
@@ -50,16 +49,12 @@ I also enjoy experimenting with automation, AI-powered applications, and tools t
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square\&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square\&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square\&logo=sqlite)
-![Prisma](https://img.shields.io/badge/Prisma-111827?style=flat-square\&logo=prisma)
 
 ### Tools and Infrastructure
 
 ![Git](https://img.shields.io/badge/Git-111827?style=flat-square\&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square\&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square\&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-111827?style=flat-square\&logo=postman)
-![Azure](https://img.shields.io/badge/Azure-111827?style=flat-square\&logo=microsoftazure)
 
 ---
 
