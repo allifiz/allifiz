@@ -77,19 +77,7 @@ Right now I'm spending my EXP on:
 
 > **Quest objective:** understand what the code is doing, not merely convince it to stop throwing errors.
 
----
 
-## 📊 冒険者記録 / GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=allifiz&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allifiz&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
 
 ## 🧩 Developer Lore
 
