@@ -1,125 +1,84 @@
 <div align="center">
 
-# Hi, I'm Allif 👋
+# アリフです。Hi, I'm Allif 👋
 
-**Backend Developer from Indonesia**
+### Backend Programmer from Indonesia 🇮🇩
 
-I build backend systems, APIs, automation tools, and practical web applications.
+`コードを書いて、バグを召喚して、また直す。`  
+*Write code, summon bugs, fix them, repeat.*
 
-Currently focused on:
+<br>
 
-* Backend development with TypeScript, Node.js, NestJS, and Fastify
-* Relational database design with PostgreSQL and MySQL
-* Multi-tenant application architecture
-* API security, authorization, and business logic
-* Learning Go, cloud deployment, and web security
+**「バックエンドが動けば、世界はまだ終わっていない。」**  
+*If the backend is still running, the world probably isn't ending yet.*
 
 </div>
 
 ---
 
-## About Me
+## 🎴 Character Sheet
 
-I'm a backend developer who enjoys turning business requirements into structured APIs, database models, and reliable application flows.
+```yaml
+name: Allif
+class: Backend Programmer
+spawn_point: Indonesia
+main_quest: Backend Development
+current_arc:
+  - Go
+  - Application Security
+  - Cloud & Deployment
+  - Better Backend Fundamentals
+status: "probably debugging something"
+```
 
-Most of my work revolves around:
+Most of the time I'm somewhere between an API endpoint, a PostgreSQL query,
+and a business rule that looked simple in the ticket.
 
-* Designing REST APIs
-* Building backend services
-* Modeling relational databases
-* Writing authentication and authorization logic
-* Integrating third-party services
-* Improving application structure and maintainability
-
-I also enjoy experimenting with automation, AI-powered applications, and tools that solve practical problems.
+No legendary prophecy here. Just code, bugs, commits, and the occasional
+`200 OK` that feels suspiciously peaceful.
 
 ---
 
-## Tech Stack
+## ⚔️ 装備 / Loadout
 
 ### Backend
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square\&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square\&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-111827?style=flat-square\&logo=nestjs)
-![Laravel](https://img.shields.io/badge/Laravel-111827?style=flat-square\&logo=laravel)
-![Go](https://img.shields.io/badge/Go-111827?style=flat-square\&logo=go)
+![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-171717?style=flat-square&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-171717?style=flat-square&logo=nestjs)
+![Laravel](https://img.shields.io/badge/Laravel-171717?style=flat-square&logo=laravel)
+![Go](https://img.shields.io/badge/Go-171717?style=flat-square&logo=go)
 
 ### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square\&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-171717?style=flat-square&logo=mysql)
+![Prisma](https://img.shields.io/badge/Prisma-171717?style=flat-square&logo=prisma)
 
-### Tools and Infrastructure
+### Tools
 
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square\&logo=git)
-![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square\&logo=linux)
-![Postman](https://img.shields.io/badge/Postman-111827?style=flat-square\&logo=postman)
-
----
-
-## Featured Projects
-
-### My Sekolah
-
-A multi-tenant school management SaaS designed to manage multiple schools from one platform.
-
-Main areas include:
-
-* Platform administration
-* School operations
-* Student and guardian management
-* Attendance
-* Billing and partial payments
-* Role-based access control
-* Audit logs
-* Parent portal
-
-**Stack:** Next.js, TypeScript, PostgreSQL, Prisma, Tailwind CSS
+![Git](https://img.shields.io/badge/Git-171717?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/Linux-171717?style=flat-square&logo=linux)
+![Postman](https://img.shields.io/badge/Postman-171717?style=flat-square&logo=postman)
 
 ---
 
-### Hina
+## 📖 現在の章 / Current Arc
 
-A WhatsApp AI chatbot experiment built with a personality and mood-based response system.
+Right now I'm spending my EXP on:
 
-The project explores:
+- 🐹 Go for backend development
+- 🔐 Web and application security fundamentals
+- ☁️ Deployment and cloud basics
+- 🧠 Backend fundamentals that are easy to skip and painful to ignore later
+- 🧪 Testing and CI/CD
+- 🗄️ Writing less cursed SQL
 
-* WhatsApp automation
-* AI API integration
-* Conversation context
-* Personality configuration
-* Dynamic response behavior
-
-**Stack:** Node.js, TypeScript, Baileys, AI API integration
-
----
-
-### Backend Experiments
-
-A collection of backend projects and technical experiments involving:
-
-* REST API development
-* Authentication and authorization
-* SQL and database modeling
-* NestJS and Fastify
-* Go API development
-* Automation tools
+> **Quest objective:** understand what the code is doing, not merely convince it to stop throwing errors.
 
 ---
 
-## Currently Learning
-
-* Go for backend development
-* Cloud deployment and infrastructure
-* Application security
-* CTF and web security fundamentals
-* Scalable multi-tenant architecture
-* Testing and CI/CD practices
-
----
-
-## GitHub Activity
+## 📊 冒険者記録 / GitHub Stats
 
 <div align="center">
 
@@ -131,20 +90,32 @@ A collection of backend projects and technical experiments involving:
 
 ---
 
-## Development Principles
+## 🧩 Developer Lore
 
 ```text
-Build clearly.
-Keep business logic explicit.
-Design the database carefully.
-Test critical flows.
-Improve continuously.
+API first.
+Database carefully.
+Business logic explicitly.
+Logs before panic.
+Read the error message.
+Then panic.
 ```
+
+A few eternal truths from this particular timeline:
+
+- `localhost` is a safe village. Production is the final dungeon.
+- A query can always become more complicated. Humanity has proven this repeatedly.
+- If the bug disappears without explanation, it has not been defeated. It is merely training.
+- `console.log()` remains an ancient debugging technique passed down through generations.
 
 ---
 
 <div align="center">
 
-Open to learning, collaboration, and building useful software.
+### またね 👋
+
+**Still learning. Still coding. Still trying not to create tomorrow's bug today.**
+
+`while (alive) { learn(); build(); debug(); }`
 
 </div>
