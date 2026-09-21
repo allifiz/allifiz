@@ -12,6 +12,10 @@
 **「バックエンドが動けば、世界はまだ終わっていない。」**  
 *If the backend is still running, the world probably isn't ending yet.*
 
+<br>
+
+<img src="https://moe-counter.lxchapu.com/allifiz?theme=moebooru" alt="anime visitor counter" />
+
 </div>
 
 ---
@@ -24,7 +28,6 @@ class: Backend Programmer
 spawn_point: Indonesia
 main_quest: Backend Development
 current_arc:
-  - Go
   - Application Security
   - Cloud & Deployment
   - Better Backend Fundamentals
@@ -47,7 +50,6 @@ No legendary prophecy here. Just code, bugs, commits, and the occasional
 ![Node.js](https://img.shields.io/badge/Node.js-171717?style=flat-square&logo=node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-171717?style=flat-square&logo=nestjs)
 ![Laravel](https://img.shields.io/badge/Laravel-171717?style=flat-square&logo=laravel)
-![Go](https://img.shields.io/badge/Go-171717?style=flat-square&logo=go)
 
 ### Database
 
@@ -67,7 +69,6 @@ No legendary prophecy here. Just code, bugs, commits, and the occasional
 
 Right now I'm spending my EXP on:
 
-- 🐹 Go for backend development
 - 🔐 Web and application security fundamentals
 - ☁️ Deployment and cloud basics
 - 🧠 Backend fundamentals that are easy to skip and painful to ignore later
