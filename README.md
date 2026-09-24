@@ -2,8 +2,6 @@
 
 # アリフです。Hi, I'm Allif
 
-### Backend Programmer from Indonesia
-
 `コードを書いて、バグを召喚して、また直す。`  
 *Write code, summon bugs, fix them, repeat.*
 
